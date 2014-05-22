@@ -3,6 +3,8 @@ ThreePinJS
 
 A Socket.IO stress-free test environment
 
+** Adapted to be used with api-ng testing **
+
 ## What and why
 ThreePinJS as a stress-free test environment for socket.io allow you to test your websocket server code before you write the client code or on-the-job.
 
